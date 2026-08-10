@@ -7,7 +7,14 @@ The dataset includes the output files and results of the comparison of the follo
 The dataset is published via Zenodo and maintained through GitHub.
 It supports the research presented in:
 ```bibtex
-@INPROCEEDINGS{format_kasper_2025, author={Kasper, Bianca and Pawlitzek, René and Hellwig, Michael}, booktitle={2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)}, title={{Towards Sustainable IoT: Space Efficiency and Serialization Speed of Data Exchange Formats}}, year={2025}, volume={}, number={}, pages={1-10}, keywords={Technological innovation;Correlation;Memory;Complexity theory;Internet of Things;Sustainable development;Internet of Things;Sustainability;Data Storage;Data Formats;Data Serialization;Usage Complexity}, doi={10.1109/ICE/ITMC65658.2025.11106637}}
+@inproceedings{kasper2025towards,
+  author    = {Kasper, Bianca and Pawlitzek, René and Hellwig, Michael},
+  title     = {{Towards Sustainable IoT: Space Efficiency and Serialization Speed of Data Exchange Formats}},
+  booktitle = {2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)},
+  year      = {2025},
+  pages     = {1--10},
+  doi       = {10.1109/ICE/ITMC65658.2025.11106637},
+  url       = {https://doi.org}
 ```
 This folder contains the raw results and serialized use cases in the data formats specified above.
 
@@ -38,7 +45,14 @@ Columns:
 ## Citation
 If you use this dataset, please cite our paper:
 ```bibtex
-@INPROCEEDINGS{format_kasper_2025, author={Kasper, Bianca and Pawlitzek, René and Hellwig, Michael}, booktitle={2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)}, title={{Towards Sustainable IoT: Space Efficiency and Serialization Speed of Data Exchange Formats}}, year={2025}, volume={}, number={}, pages={1-10}, keywords={Technological innovation;Correlation;Memory;Complexity theory;Internet of Things;Sustainable development;Internet of Things;Sustainability;Data Storage;Data Formats;Data Serialization;Usage Complexity}, doi={10.1109/ICE/ITMC65658.2025.11106637}}
+@inproceedings{kasper2025towards,
+  author    = {Kasper, Bianca and Pawlitzek, René and Hellwig, Michael},
+  title     = {{Towards Sustainable IoT: Space Efficiency and Serialization Speed of Data Exchange Formats}},
+  booktitle = {2025 IEEE International Conference on Engineering, Technology, and Innovation (ICE/ITMC)},
+  year      = {2025},
+  pages     = {1--10},
+  doi       = {10.1109/ICE/ITMC65658.2025.11106637},
+  url       = {https://doi.org}
 ```
 and dataset
 ```bibtex

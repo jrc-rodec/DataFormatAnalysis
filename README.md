@@ -57,14 +57,14 @@ If you use this dataset, please cite our paper:
 and dataset
 ```bibtex
 @dataset{dummy_zenodo_dataset_2026,
-  author       = {Doe, Jane and Smith, John},
-  title        = {{A Dummy Dataset for Testing and Demonstration Purposes}},
+  author       = {Kasper, Bianca and Pawlitzek, René and Hellwig, Michael},
+  title        = {{Dataset of IoT Data Exchange Formats}},
   month        = aug,
   year         = 2026,
   publisher    = {Zenodo},
   version      = {v1.0.0},
-  doi          = {10.5281/zenodo.1234567},
-  url          = {https://doi.org}
+  doi          = {10.5281/zenodo.21886693},
+  url          = {https://doi.org/10.5281/zenodo.21886693}
 }
 ```
 

@@ -5,7 +5,7 @@ This respository contains the output files and results of a comparison of variou
 The dataset includes the output files and results of the comparison of the following data exchange formats in terms of space efficiency and speed: Avro, Cap'n Proto (packed and unpacked), FlatBuffers, Thrift, TLV, BSON, CBOR, CSV (with and without header), EXI, FlexBuffers, Hessian, INI, Amazon Ion (textual and binary), Java Serialization, JSON, MessagePack, Protobuf, RDF (RDF/XML and Turtle format), Smile, TOML, UBJSON, XDR, XML and YAML.
 
 The dataset is published via Zenodo and maintained through GitHub.
-It supports the research presented in ![Towards Sustainable IoT: Space Efficiency and Serialization Speed of Data Exchange Formats](https://doi.org/10.1109/ICE/ITMC65658.2025.11106637):
+It supports the research presented in [Towards Sustainable IoT: Space Efficiency and Serialization Speed of Data Exchange Formats](https://doi.org/10.1109/ICE/ITMC65658.2025.11106637):
 
 This folder contains the raw results and serialized use cases in the data formats specified above.
 

@@ -56,7 +56,7 @@ If you use this dataset, please cite our paper:
 ```
 and dataset
 ```bibtex
-@dataset{dummy_zenodo_dataset_2026,
+@dataset{kasper_formats_dataset_2026,
   author       = {Kasper, Bianca and Pawlitzek, René and Hellwig, Michael},
   title        = {{Dataset of IoT Data Exchange Formats}},
   month        = aug,
